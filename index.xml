@@ -72,10 +72,10 @@ administration</role>
 <corresp id="cor-1">steve@curvenote.com</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2025-04-08">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2025-08-03">
 <year>2025</year>
-<month>4</month>
-<day>8</day>
+<month>8</month>
+<day>3</day>
 </pub-date>
 
 
@@ -247,7 +247,7 @@ Nacional (IGN). …</p>
 </ref-list>
 </back>
 
-<sub-article article-type="notebook" id="nb-6-nb-article">
+<sub-article article-type="notebook" id="nb-9-nb-article">
 <front-stub>
 <title-group>
 <article-title>La Palma Earthquakes</article-title>
@@ -931,6 +931,25 @@ df.loc[(df['Date'] &gt;= '2021-12-31'), 'Phase'] = 4</code>
     <code language="python">df.to_csv(&quot;../data/lapalma_ign.csv&quot;, index=False)</code>
     </sec>
   </sec>
+</sec>
+</body>
+
+
+
+<back>
+</back>
+
+
+</sub-article>
+<sub-article article-type="notebook" id="nb-6-nb-2">
+<front-stub>
+</front-stub>
+
+<body>
+<sec id="test-write-from-mobile-nb-2">
+  <title>test write from mobile</title>
+  <p>hello 1 2 3</p>
+  <p>inserting photos might not be as simple</p>
 </sec>
 </body>
 
